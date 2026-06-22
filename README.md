@@ -26,4 +26,4 @@ with thematic deep dives branching off the timeline.
 
 Multimodal models · reasoning models · agents · RAG · evals · open-weight models
 
-📫 Reach me: fahmsy@gmail.com
+📫 Reach me: fahmsy.me@gmail.com
